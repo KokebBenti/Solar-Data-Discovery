@@ -1,6 +1,6 @@
-# Solar Data Discovery
+## Solar Data Discovery
 
-#Introduction
+## Introduction
 This week we worked on analyzing data from Solar Radiation Measurement to help our client, MoonLight Energy Solutions. We tried to identify key trends and gain some insight from the data to help our client make strategic decisions about solar investment. Specifically, we focused on three countries, Benin, Togo, and Sierra Leone to identify the region with the highest potential for solar installation. 
 
 ## Methodology
